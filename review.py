@@ -12,6 +12,14 @@
 #           8
 # Who do we appreciate?
 
+
+
+aNumber = 0
+while aNumber < 8:
+    aNumber = aNumber +2
+    print aNumber
+print 'Who do we appriciate?'
+
 # Use a loop to complete this, either a for loop or a while loop.
 # Each time through the loop, print out either 2, 4, 6 or 8.
 # When the loop is finished, print "Who do we appreciate?"
